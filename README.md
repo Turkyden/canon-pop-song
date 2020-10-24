@@ -2,6 +2,10 @@
 
 A list of chinese pop song with canon chord.
 
+## Capo
+
+2
+
 ## Chore
 
 | C | G | Em | Am | F | Am | F | G |
