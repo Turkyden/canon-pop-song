@@ -4,7 +4,9 @@ A list of chinese pop song with canon chord.
 
 ## Chore
 
-C G Em Am F Am F G
+| C | G | Em | Am | F | Am | F | G |
+| - | - | -- | -- | - | -- | - | - |
+| - | - | -- | -- | - | -- | - | - |
 
 ## Pop Song
 
