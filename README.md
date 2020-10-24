@@ -8,7 +8,7 @@ capo = 2
 
 | C | G | Em | Am | F | Am | F | G |
 | - | - | -- | -- | - | -- | - | - |
-| ./C.png | ./C.png | ./C.png | ./C.png | ./C.png | ./C.png | ./C.png | ./C.png |
+| ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) |
 
 ## Pop Song
 
