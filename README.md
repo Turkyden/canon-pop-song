@@ -21,21 +21,15 @@ capo = 2
 想念只让自己 苦了自己 爱上你 是我情非得已
 ```
 
-<details>
-<summary>情非得已-庾澄庆 </summary>
+- young for you-gala 
 
-只怕我自己会爱上你，不该让自己过得太急；
+```text
+Sunday's coming I wanna drive my car.
+To your apartment with a present like a star.
+Forecaster said the weather may be rainy hard.
+But I know the sun will shine for us.
+```
 
-怕我没什么能够给你，爱你也需要很大的勇气。
-
-只怕我自己会爱上你，不该让自己过得太急；
-
-怕我没什么能够给你，爱你也需要很大的勇气。
-
-</details>
-
-1. 情非得已-庾澄庆 
-2. young for you-gala 
 3. 青春修炼手册-tfboys 
 4. 纸短情长-烟把儿乐队 
 5. 学猫叫-小潘潘 
