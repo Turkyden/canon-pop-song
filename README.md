@@ -6,9 +6,9 @@ A list of chinese pop song with canon chord.
 
 capo = 2
 
-| C | G | Em | Am | F | Am | F | G |
+| C | G | Am | Em | F | Em | F | G |
 | - | - | -- | -- | - | -- | - | - |
-| ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) | ![C](./C.png) |
+| ![C](./C.png) | ![G](./G.png) | ![Am](./Am.png) | ![Em](./Em.png) | ![F](./F.png) | ![Em](./Em.png) | ![F](./F.png) | ![G](./G.png) |
 
 ## Pop Song
 
