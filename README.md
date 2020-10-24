@@ -12,8 +12,7 @@ capo = 2
 
 ## Pop Song
 
-<details>
-<summary>情非得已-庾澄庆 </summary>
+情非得已-庾澄庆
 
 ```text
 只怕我自己会爱上你，不该让自己过得太急；
@@ -21,8 +20,6 @@ capo = 2
 只怕我自己会爱上你，不该让自己过得太急；
 怕我没什么能够给你，爱你也需要很大的勇气。
 ```
-
-</details>
 
 <details>
 <summary>情非得已-庾澄庆 </summary>
