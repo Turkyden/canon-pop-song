@@ -59,4 +59,5 @@ But I know the sun will shine for us.
 29. 梦醒时分
 30. 朋友·周华健
 31. 我的歌声里
+32. 樱花草
 
